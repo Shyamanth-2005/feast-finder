@@ -1,0 +1,21 @@
+{
+  "name": "feast_finder",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "defualt": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Shyamanth Reddy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "core-js": "^3.40.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1"
+  }
+}

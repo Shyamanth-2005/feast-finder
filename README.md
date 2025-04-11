@@ -18,11 +18,6 @@
 
 ---
 
-## 🖼️ Preview
-
-> 📷 Add a screenshot or demo GIF here showing the main UI and upload feature.
-
----
 
 ## 🚀 Features
 

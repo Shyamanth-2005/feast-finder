@@ -4,11 +4,6 @@
   Discover, search, and share millions of delicious recipes from all over the world.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-46.9%25-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/SCSS-29.5%25-pink?style=flat&logo=sass" />
-  <img src="https://img.shields.io/badge/HTML-23.6%25-orange?style=flat&logo=html5" />
-</p>
 
 ---
 
@@ -26,7 +21,7 @@
 - 📤 Upload your own custom recipes
 - ❤️ Bookmark favorite recipes
 - 🔄 Auto-update ingredient quantities based on servings
-- 🌐 Fetch data from a public recipe API (e.g., Forkify API)
+- 🌐 Fetch data from a public recipe API 
 
 ---
 
